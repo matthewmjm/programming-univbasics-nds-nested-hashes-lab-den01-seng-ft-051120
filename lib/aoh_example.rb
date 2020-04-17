@@ -36,11 +36,11 @@ end
 
 def literal_aoh
   literal_aoh = []
-  literal_aoh = literal_aoh.push(DON_G.sort)
-    literal_aoh = literal_aoh.push(DON_G.sort)
-      literal_aoh = literal_aoh.push(DON_G.sort)
-        literal_aoh = literal_aoh.push(DON_G.sort)
-          literal_aoh = literal_aoh.push(DON_G.sort)
+  literal_aoh = literal_aoh.push(DON_G)
+    literal_aoh = literal_aoh.push(DON_G)
+      literal_aoh = literal_aoh.push(DON_G)
+        literal_aoh = literal_aoh.push(DON_G)
+          literal_aoh = literal_aoh.push(DON_G)
   literal_aoh  
 end
 
