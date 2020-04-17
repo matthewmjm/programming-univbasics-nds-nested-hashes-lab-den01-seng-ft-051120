@@ -37,10 +37,10 @@ end
 def literal_aoh
   literal_aoh = []
   literal_aoh = literal_aoh.push(DON_G)
-    literal_aoh = literal_aoh.push(DON_G)
-      literal_aoh = literal_aoh.push(DON_G)
-        literal_aoh = literal_aoh.push(DON_G)
-          literal_aoh = literal_aoh.push(DON_G)
+    literal_aoh = literal_aoh.push(JOELLE_VD)
+      literal_aoh = literal_aoh.push(PAT_M)
+        literal_aoh = literal_aoh.push(KATE_G)
+          literal_aoh = literal_aoh.push(BRUCE_G)
   literal_aoh  
 end
 
